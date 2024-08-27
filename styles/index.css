@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    font-size: 44px;
+    margin: auto;
+    font-weight: 20;
+    text-align: center;
+    background-color: black;
+}
+
+h3 {
+    color:white;
+    font-size: 32px;
+    background-color: black;
+    font-weight: 10;
+    text-align: center;
+
+}
+
+body {
+    background-color: grey;
+}
+
+li {
+    font-style: italic;
+    font-size: 20px;
+}
+
+img {
+    border-style: double;
+    border-radius: 50%;
+}
